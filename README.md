@@ -99,7 +99,7 @@ Follow these simple steps to connect your live PostgreSQL database and storage:
 2. Click **Add User -> Create User**.
 3. Enter:
    - **Email**: `goutamdas8562001@gmail.com`
-   - **Password**: `gautam123@G`
+   - **Password**: `gsi`
    - Check **Auto Confirm User**.
 4. Click **Create User**.
 
